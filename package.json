@@ -1,0 +1,19 @@
+{
+  "name": "js_closures_y_scope",
+  "version": "1.0.0",
+  "description": "Practicas con closures y scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredbusta/js_closures_y_scope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredbusta/js_closures_y_scope/issues"
+  },
+  "homepage": "https://github.com/jaredbusta/js_closures_y_scope#readme"
+}
